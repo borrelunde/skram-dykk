@@ -10,7 +10,7 @@ At present the server is located at [ektedata.uib.no/gabrieldata](https://ekteda
 
 The work was supported by:
 
-* Amalie Skram VGS - [www.asvgs.no](http://www.asvgs)
+* Amalie Skram VGS - [www.amalieskram.vgs.no](https://www.amalieskram.vgs.no/)
 * Universitetet i Bergen - [www.uib.no](http://www.uib.no)
 
 
